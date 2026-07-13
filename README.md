@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm Camilla Almeida </h1>
+<h1>Hi! I'm Camilla Almeida 👋 </h1>
 
 <p>
 I'm a Product Designer with 7 years of experience across gaming, insurance, fintech, and B2B. What drives me is the challenge of making sense of complexity and delivering products that are not just functional, but meaningful.
