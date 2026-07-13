@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Camilla Almeida </h1>
 
-<!--
-**camomillar/camomillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm a Product Designer with 7 years of experience across gaming, insurance, fintech, and B2B. What drives me is the challenge of making sense of complexity and delivering products that are not just functional, but meaningful.
 
-Here are some ideas to get you started:
+From web platforms and mobile apps to design systems, I've had the chance to work across many different contexts, and I think that range is what keeps the work interesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working on something cool? Get in touch!
+</p>
+
+<p align="center">
+  <img src="https://your-image-url.gif" width="700">
+</p>
